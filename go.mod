@@ -2,7 +2,7 @@ module github.com/matt-simons/havejsonpath-example
 
 go 1.19
 
-replace sigs.k8s.io/controller-runtime => github.com/matt-simons/controller-runtime v0.0.0-20230203121558-12fd5a2d7fec
+replace sigs.k8s.io/controller-runtime => github.com/matt-simons/controller-runtime v0.0.0-20230206113144-d90164e27b5c
 
 require (
 	github.com/onsi/ginkgo/v2 v2.8.0
